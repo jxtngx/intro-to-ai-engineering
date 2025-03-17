@@ -1,4 +1,4 @@
-# Intro to Applied AI
+# Intro to AI Engineering
 
 Llama Stack examples built with Python
 
