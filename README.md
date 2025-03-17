@@ -6,6 +6,8 @@ Llama powered Agents built with Llama Stack
 ## Current Lessons
 
 - [Lesson 0](./lesson_0/README.md) - Llama Stack Quickstart and RAG app Colab
+
+## Work in Progress Lessons
 - [Lesson 1](./lesson_1/README.md) - Understanding the Llama Stack Codebase
 - [Lesson 2](./lesson_2/README.md) - Understanding Llama Stack Distributions and Providers
 - [Lesson 3](./lesson_3/README.md) - Creating a Custom Distribution
